@@ -1,0 +1,15 @@
+.el-dialog .el-dialog__footer {
+  text-align: center;
+}
+[hidden] {
+  display: none !important;
+}
+.el-notification .el-icon-info{
+  color: #f4516c !important;
+}
+.wsn{
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+  max-width: 100%;
+}
